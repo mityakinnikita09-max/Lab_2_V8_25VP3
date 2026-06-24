@@ -1,1 +1,38 @@
+body {
+    background-image: url("../Picture/brown-paper-texture-background_51524-5817.jpeg");
+}
 
+#img-1 {
+    display: block;
+    margin: 0 auto 20px;
+    width: 200px;
+}
+
+#text-h1 {
+    color: red;
+    font-family: Times New Roman;
+    text-align: center;
+}
+
+h1{
+    font-family: Monotype Corsiva;
+}
+
+.text-p1 {
+    text-align: center;
+}
+
+.text-p2 {
+    font-family: Times New Roman;
+    font-weight: bold;
+    text-align: right;
+    font-size: 20px;
+}
+
+ol {
+    color: blue;
+}
+
+a {
+    color: black;
+}
